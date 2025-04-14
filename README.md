@@ -6,7 +6,7 @@ This repository contains code for (1) orginnal dataset.zip:Initial dataset and t
  
  FlanT5Small：https://huggingface.co/google/flan-t5-small
  FlanT5Base：https://huggingface.co/google/flan-t5-base
- 
-
+ # Setup and fine-tuning
+you can Adjust the parameters of the model in train.py and fine-tuning
 
  
